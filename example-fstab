@@ -1,0 +1,19 @@
+#
+# -- Example fstab table for mountable disks -- 
+
+
+# 
+# At the end of the file, add the following:
+
+----------------------------
+
+/dev/sdb1 /media/polaris/disk3 ext4 defaults 0 2 
+/dev/sdc1 /media/polaris/disk2 etc4 defaults 0 2 
+/dev/sdd1 /media/polaris/disk4 ext4 defaults 0 2
+
+----------------------------
+----------------------------
+
+
+
+
